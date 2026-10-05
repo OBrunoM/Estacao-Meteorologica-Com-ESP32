@@ -32,8 +32,8 @@ O Arduino IDE exige que cada sketch fique numa pasta com o mesmo nome do arquivo
 
 | Componente | Modelo |
 |---|---|
-| Microcontrolador | ESP32 DevKit V1 (chip serial CH9102) |
-| Sensor | BME280 (I2C, endereço 0x76) |
+| Microcontrolador | ESP32  |
+| Sensor | BME280 |
 | Display | TFT 2.4" SPI 240x320, controlador compatível com ILI9341 |
 | Alimentação | Fonte USB 5V 1A |
 
