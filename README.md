@@ -2,10 +2,17 @@
 
 Estação meteorológica com ESP32 e sensor BME280. Mostra temperatura, umidade, pressão e previsão do tempo num display TFT 2.4" e numa página web na rede local, com histórico das últimas 3 horas em gráficos.
 
+
 <p align="center">
   <img src="docs/estacao.jpg" width="49%">
   <img src="docs/pagina-web.jpg" width="49%">
 </p>
+
+<p align="center">
+  <img src="docs/estacao-2.jpg" width="49%">
+  <img src="docs/estacao-3.jpg" width="49%">
+</p>
+
 
 ## Funcionalidades
 
